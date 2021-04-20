@@ -1,4 +1,4 @@
-# AngularRestcallDemo
+# AngularRestcallDemo( application to show basic http rest call in angular)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.0.
 
